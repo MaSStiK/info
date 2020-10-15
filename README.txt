@@ -19,3 +19,5 @@ git pull
 Авторство коммита:
 git --global user.email "Ваш емаил"
 git --global user.name "Ваше имя"
+
+Домашняя работа
