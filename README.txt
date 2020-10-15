@@ -8,7 +8,7 @@ cd info
 git add .
 
 Запись коммита:
-git commit -m "Комминтарий"
+git commit -m "Комментарий"
 
 Отправить коммит на сервер:
 git push
@@ -19,5 +19,3 @@ git pull
 Авторство коммита:
 git --global user.email "Ваш емаил"
 git --global user.name "Ваше имя"
-
-Скачать с https://git-scm.com/
