@@ -1,7 +1,7 @@
 Создает копию в папку info:
 git clone https://github.com/MaSStiK/info.git info
 
-Перехд в деректорию выше:
+Переход в деректорию выше:
 cd info
 
 Добавление файлов в коммит:
