@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+
+#time {
+	text-align: center;
+	color: white;
+	font-size: 144px;
+	font-family: Arial;
+	font-weight: 500;
+}
